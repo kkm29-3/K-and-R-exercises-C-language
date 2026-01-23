@@ -1,0 +1,3 @@
+printf   123
+scanf    45
+printf   78
